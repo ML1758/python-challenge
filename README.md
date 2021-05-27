@@ -1,12 +1,12 @@
 python-challenge Assignment - Milinda 'ML' Liyanage
 
-## There are two programs to analise two separet data sets
+## There are two programs to analyse two separate data sets
 
 ### PyBank
 
-* This program analyse a profit and loss data set and provide a summary.
+* This program analyses a profit and loss data set and provide a summary.
 
-* run the [maim.py](PyBank/mail.py) program which out put the result on to screen and write to text file in analysis folder
+* run the [main.py](PyBank/mail.py) program which output the results on to the screen and write to a text file in the analysis folder.
 
 #### Data File
 
@@ -19,9 +19,9 @@ python-challenge Assignment - Milinda 'ML' Liyanage
 
 ### PyPoll
 
-* This program provide a summary of an election.
+* This program provides a summary of an election.
 
-* run the [maim.py](PyPoll/mail.py) program which out put the result on to screen and write to text file in analysis folder
+* run the [main.py](PyPoll/mail.py) program which output the results on to the screen and write to a text file in the analysis folder.
 
 #### Data File
 
